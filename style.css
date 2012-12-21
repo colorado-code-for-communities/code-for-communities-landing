@@ -212,13 +212,13 @@
 
       }
       .carousel .item {
-        height: 300px;
+        height: 375px;
       }
       .carousel img {
-        height: 300px;
+        height: 375px;
       }
       .carousel-caption {
-        width: 96%;
+        /*width: 96%;*/
         padding: 10px;
         margin-top: 56px;
         text-align: center;
