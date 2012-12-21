@@ -16,4 +16,4 @@ Also, it's nice if you merge/commit to gh-pages, that you [let the team know on 
 This repo and the site codeforcommunities.org uses Twitter Bootstrap and started from their [Carousel jumbotron](http://twitter.github.com/bootstrap/examples/carousel.html) template. They are awesome.  Our landing page is forked from the work done by [Bret Fisher](http://www.twitter.com/BretFisher) of the [Code for Virginia Beach Brigade](http://codeforvirginiabeach.org)
 
 #Issues, Questions, Wana Help?
-We take Pull Requests! See http://codeforcommunities.org for getting involved, and http://codeforamerica.org if outside the Denver region. Use github's issues if you see a problem or have a feature request. You can contact the maintainer Jason Lally at jlally@codeforamerica.org or @Bsynchronouscity.
+We take Pull Requests! See http://codeforcommunities.org for getting involved, and http://codeforamerica.org if outside the Denver region. Use github's issues if you see a problem or have a feature request. You can contact the maintainer Jason Lally at jlally@codeforamerica.org or @synchronouscity
