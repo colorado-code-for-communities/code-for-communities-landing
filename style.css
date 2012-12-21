@@ -213,9 +213,11 @@
       }
       .carousel .item {
         height: 375px;
+        min-height: 375px;
       }
       .carousel img {
         height: 375px;
+        min-height: 375px;
       }
       .carousel-caption {
         /*width: 96%;*/
